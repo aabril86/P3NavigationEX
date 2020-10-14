@@ -14,4 +14,9 @@
         android:id="@+id/drawer3Fragment"
         android:icon="@android:drawable/ic_menu_directions"
         android:title="FUNCIONA" />
+
+    <item
+        android:id="@+id/tabbed1Fragment"
+        android:icon="@android:drawable/ic_menu_directions"
+        android:title="Las tabs del demoño" />
 </menu>
